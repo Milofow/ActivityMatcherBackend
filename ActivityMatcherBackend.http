@@ -1,0 +1,6 @@
+@ActivityMatcherBackend_HostAddress = http://localhost:5192
+
+GET {{ActivityMatcherBackend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
